@@ -1,0 +1,1 @@
+A **security-first** [MCP (Model Context Protocol) server that provides AI assistants with secure access to iCloud Calendar](https://github.com/icloud-calendar-mcp/icloud-calendar-mcp) via CalDAV. Built with comprehensive security controls aligned with the [OWASP MCP Top 10](https://owasp.org/www-project-mcp-top-10/).
